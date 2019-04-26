@@ -9,7 +9,7 @@ cargo run --release file.csv
 ```
 or...
 ```
-./regression file_path.csv
+./target/release/regression file_path.csv
 ```
 
 ## Notes
